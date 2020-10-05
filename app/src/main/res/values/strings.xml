@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">retokanto</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Recording</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="nameBD">Kanto.db</string>
+    <string name="PAKAGE_MOVIL">app.reto.retokanto.beans</string>
+
+    <string name="name">Name</string>
+    <string name="user_name">Username</string>
+    <string name="biography">Biography</string>
+
+    <string name="followers">Followers</string>
+    <string name="followed">Followed</string>
+    <string name="views">Views</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="change_foto">Change photo</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="internet">CHECK YOUR INTERNET CONNECTION</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
